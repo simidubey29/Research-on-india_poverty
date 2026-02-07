@@ -1,7 +1,7 @@
 # NREGA Excel Dashboard Project
 ## Project Overview
 link
-![Dashboard](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshots/excel_dashboard.png)
+![Dashboard](Screenshots/excel_dashboard.png)
 
 
 
