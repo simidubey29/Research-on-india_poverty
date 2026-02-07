@@ -1,8 +1,6 @@
 # NREGA Excel Dashboard Project
 ## Project Overview
 
-link -![Dashboard](Screenshots/dashboard.png)
-
 This project involves creating an **interactive Excel dashboard** using the **NREGA (Mahatma Gandhi National Rural Employment Guarantee Act) dataset**. The dashboard helps analyze employment generation, worker participation, expenditure patterns, and work completion status across Indian states and districts.
 
 The project is designed for **academic use, data analysis practice, and portfolio presentation**.
